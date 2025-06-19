@@ -4,15 +4,15 @@ First of all, download the Python source code from https://github.com/researchpr
 
 Next, download the datasets, feature files and pretrained model from https://pan.baidu.com/s/1XagNIUpc8cPg2IkvNdRgRg?pwd=agtx with password agtx
 
-Subsequently, execute following commands:
+Subsequently, configure the runtime environment as following commands:
 
-unzip MFTP.zip
+unzip MFTP-main.zip
 
-mv sequence.zip MFTP/
+mv sequence.zip MFTP-main/
 
-mv gat.pkl MFTP/
+mv gat.pkl MFTP-main/
 
-cd MFTP
+cd MFTP-main
 
 unzip sequence.zip
 
