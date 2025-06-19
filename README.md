@@ -18,7 +18,7 @@ unzip sequence.zip
 
 conda create --name MFTP python=3.8
 
-pip install -r pip requirement.txt
+pip install -r requirement.txt
 
 python TestGAT.py
 
