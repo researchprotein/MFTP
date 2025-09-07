@@ -8,13 +8,11 @@ Subsequently, configure the runtime environment as following commands:
 
 unzip MFTP-main.zip
 
-mv sequence.zip MFTP-main/
-
-mv gat.pkl MFTP-main/
+mv materials.zip MFTP-main/
 
 cd MFTP-main
 
-unzip sequence.zip
+unzip materials.zip
 
 conda create --name MFTP python=3.8
 
