@@ -2,7 +2,7 @@ This is the user guide of running the MFTP prediction model.
 
 First of all, download the Python source code from https://github.com/researchprotein/MFTP
 
-Next, download the datasets, feature files and pretrained model from https://pan.baidu.com/s/1XagNIUpc8cPg2IkvNdRgRg?pwd=agtx with password agtx
+Next, download the datasets, feature files and pretrained model from https://pan.baidu.com/s/1VWQr0q7lOaxAw4MZiE6ZZg?pwd=kecr with password kecr
 
 Subsequently, configure the runtime environment as following commands:
 
